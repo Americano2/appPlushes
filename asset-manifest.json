@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/appPlushes/static/css/main.eec9b7c4.css",
-    "main.js": "/appPlushes/static/js/main.c29281a1.js",
+    "main.js": "/appPlushes/static/js/main.5b3f674d.js",
     "static/js/453.9df335c4.chunk.js": "/appPlushes/static/js/453.9df335c4.chunk.js",
     "static/media/Anastasia.jpg": "/appPlushes/static/media/Anastasia.29078aca27acc171ed02.jpg",
     "static/media/Timebreak.jpg": "/appPlushes/static/media/Timebreak.a411a344916160d7531f.jpg",
@@ -67,11 +67,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/appPlushes/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/appPlushes/index.html",
     "main.eec9b7c4.css.map": "/appPlushes/static/css/main.eec9b7c4.css.map",
-    "main.c29281a1.js.map": "/appPlushes/static/js/main.c29281a1.js.map",
+    "main.5b3f674d.js.map": "/appPlushes/static/js/main.5b3f674d.js.map",
     "453.9df335c4.chunk.js.map": "/appPlushes/static/js/453.9df335c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eec9b7c4.css",
-    "static/js/main.c29281a1.js"
+    "static/js/main.5b3f674d.js"
   ]
 }

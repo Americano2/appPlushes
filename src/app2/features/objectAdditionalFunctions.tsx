@@ -1,0 +1,1 @@
+export const getKeys = (object: object) => Object.keys(object);
